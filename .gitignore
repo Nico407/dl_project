@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+
+#Data and models
+data/
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+#IDEs and OS files
+.DS_Store
+.vscode/
+.idea/
+
+glove.6B.100d.txt
+*.txt
+*.zip
+*.tgz
